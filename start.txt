@@ -2,3 +2,5 @@ why did you name it start
 
 I am learning git 
 I am learning to make changes with git 
+
+let's try git commit -m "leaving message"
